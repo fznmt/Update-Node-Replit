@@ -1,4 +1,5 @@
-# 🆙 | Update Node
+<h1 align="center">Update Node Replit</h1>
+
 > **Berikut adalah cara menaikkan / update versi NodeJS menjadi 16+ di [Repl.it](https://www.replit.com/)**
 ## 1️⃣ | Cara Pertama
 > 1. Masuk ke project NodeJS yang ingin diupdate
